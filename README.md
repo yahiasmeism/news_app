@@ -1,11 +1,6 @@
 # Preview :
 
-<div>
-  <img src="screenshot1.jpg" height="400">
-<img src="screenshot2.jpg" height="400">
-<img src="screenshot3.jpg" height="400">
-<img src="screenshot4.jpg" height="400">
-  <div/>
+  <img src="app_preview.png">
 <hr>
 
 ## Comprehensive News App - Stay Informed with World Events!
